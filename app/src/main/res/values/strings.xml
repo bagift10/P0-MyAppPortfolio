@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAppPortfolio</string>
+    <string name="spotifyStreamerToastText">This button will launch my Spotify Streamer App</string>
+    <string name="scoresToastText">This button will launch my Scores App</string>
+    <string name="libraryToastText">This button will launch my Library App</string>
+    <string name="buildItBiggerToastText">This button will launch my Build It Bigger App</string>
+    <string name="xyzReaderToastText">This button will launch my XYZ Reader App</string>
+    <string name="capstoneToastText">This button will launch my Capstone App</string>
+</resources>
